@@ -8,7 +8,8 @@ This repo was tested with Ubuntu 16.04/18.04, Pytorch 1.5.0
 ```
 python train.py --dataset_name grid
 ```
-where --dataset_name is used to specify the catogory
+where --dataset_name is used to specify the catogory.
+
 3. Validate with command:
 ```
 python valid.py --dataset_name grid
