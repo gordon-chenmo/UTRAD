@@ -6,7 +6,7 @@ This repo was tested with Ubuntu 16.04/18.04, Pytorch 1.5.0
 1. Fetch the Mvtec datasets, and extract to datasets/
 2. Run training by using command:
 ```
-python train.py --dataset_name grid
+python main.py --dataset_name grid
 ```
 where --dataset_name is used to specify the catogory.
 
